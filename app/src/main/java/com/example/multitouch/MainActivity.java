@@ -10,6 +10,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 //Commit1 -- 기본설계완료
+//Commit2 -- 기능1 추가
 public class MainActivity extends AppCompatActivity {
 
     @Override
