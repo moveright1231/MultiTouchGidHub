@@ -11,6 +11,7 @@ import android.view.View;
 
 //Commit1 -- 기본설계완료
 //Commit2 -- 기능1 추가
+//Commit3 -- 기능2 추가 LEE
 public class MainActivity extends AppCompatActivity {
 
     @Override
